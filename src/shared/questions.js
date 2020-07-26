@@ -28,23 +28,23 @@ export const QUESTIONS=[
 		id : 4,
 		question : "4,8,16,?",
 		image: '/assets/images/question_bg.jpg',
-		answer : 32
+		answer : '{"answers":"32"}'
 	},
 	{
 		id : 5,
 		question : "4,8,16,?",
 		image: '/assets/images/question_bg.jpg',
-		answer : 32
+		answer : '{"answers":"32"}'
 	},
 	{
 		id : 6,
 		question : "4,8,16,?",
 		image: '/assets/images/question_bg.jpg',
-		answer : 32
+		answer : '{"answers":"32"}'
 	},
 	{
 		id : 7,
 		question : "4,8,16,?",
 		image: '/assets/images/question_bg.jpg',
-		answer : 32
+		answer : '{"answers":"32"}'
 	}];
