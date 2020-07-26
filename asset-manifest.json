@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/math-game/static/css/main.94cc21e7.chunk.css",
+    "main.js": "/math-game/static/js/main.50773d2c.chunk.js",
+    "main.js.map": "/math-game/static/js/main.50773d2c.chunk.js.map",
+    "runtime-main.js": "/math-game/static/js/runtime-main.36d01603.js",
+    "runtime-main.js.map": "/math-game/static/js/runtime-main.36d01603.js.map",
+    "static/css/2.9a78915f.chunk.css": "/math-game/static/css/2.9a78915f.chunk.css",
+    "static/js/2.5ecad273.chunk.js": "/math-game/static/js/2.5ecad273.chunk.js",
+    "static/js/2.5ecad273.chunk.js.map": "/math-game/static/js/2.5ecad273.chunk.js.map",
+    "index.html": "/math-game/index.html",
+    "precache-manifest.af36f0b9f5ae4c39f9503b4fc3a9071a.js": "/math-game/precache-manifest.af36f0b9f5ae4c39f9503b4fc3a9071a.js",
+    "service-worker.js": "/math-game/service-worker.js",
+    "static/css/2.9a78915f.chunk.css.map": "/math-game/static/css/2.9a78915f.chunk.css.map",
+    "static/css/main.94cc21e7.chunk.css.map": "/math-game/static/css/main.94cc21e7.chunk.css.map",
+    "static/js/2.5ecad273.chunk.js.LICENSE.txt": "/math-game/static/js/2.5ecad273.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/math-game/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d01603.js",
+    "static/css/2.9a78915f.chunk.css",
+    "static/js/2.5ecad273.chunk.js",
+    "static/css/main.94cc21e7.chunk.css",
+    "static/js/main.50773d2c.chunk.js"
+  ]
+}
