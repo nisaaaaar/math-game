@@ -13,14 +13,11 @@ import { FadeTransform } from 'react-animation-components';
                 transformProps={{
                     exitTransform: 'scale(0.5) translateY(-50%)'
                 }}>
-		 			 <Card className="question-card rounded" onClick="">
-		       			   <Link to={`/home/level/${question.id}`}>
-					       <CardImg width="100%" src={question.image} />
-					        <CardImgOverlay>
-					          <CardTitle className="question-number">{question.id + 1}</CardTitle>  
-					        </CardImgOverlay>
-					       </Link>
-					 </Card>
+						<Card className="question-card rounded" onClick="">
+		 			 <Link to={`/home/level/${question.id}`}>
+					         <CardTitle className="question-number">{question.id + 1}</CardTitle>  
+					 </Link>
+						 </Card>
 				</FadeTransform>
 	 		);
 	 	}
@@ -36,7 +33,7 @@ import { FadeTransform } from 'react-animation-components';
     return(
     	<div className="container">
     	<div className="row">
-    		<h1 className="mt-4">Levels:</h1>
+    		<h1 className="mt-4" style={{color:"white"}}>Levels:</h1>
     	</div>
           <div className="row mt-4 level">{questions}</div>
     	</div>
