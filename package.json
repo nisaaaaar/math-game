@@ -2,7 +2,7 @@
   "name": "confusion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nisaaaaar.github.io/game-math/",
+  "homepage": "https://nisaaaaar.github.io/math-games/",
   "dependencies": {
     "3": "^2.1.0",
     "-": "^0.0.1",
