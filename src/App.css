@@ -1,38 +1,84 @@
-.App {
-  text-align: center;
+
+
+.backgrounding{
+  /*background-image: url(/assets/images/main-bg.jpeg);*/
+  background:#171616; 
+  height: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+hr{
+  margin: 20px 0;
+  border: 1px solid grey;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.main-header{
   color: white;
+  text-align: center;
+  font-size: 600%;
 }
 
-.App-link {
-  color: #61dafb;
+.main-header:hover{
+  color: grey;
+  text-shadow: 2px 2px white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+.home-link:hover{
+  text-decoration: none;
+}
+.mainMenu{
+  text-align: center;
+   padding-top : 15; 
+   color: white;
+     font-size: 400%;
+
+}
+.mainMenu ul li{
+  display: inline;
+}
+.menuButton{
+     color: white;
+     text-decoration-color: white;
+     height: 40px;
+     width: 120px;
+}
+.question{
+  color: white;
+  font-size: 200%;
+  font-family: georgia-serif;
+
   }
-  to {
-    transform: rotate(360deg);
+h2.question{
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 50px;
   }
+h3.question{
+     font-size: 400%;
+
+  }
+.question-number{
+    font-size: 700%;
+    text-align: center;
+    color: white;
+
+}
+
+.question-card{
+    background-color: #171616;
+}
+
+
+.question-card:hover, .question-card:focus, .question-card:active{
+  transition-delay: 0.15s;
+  border-width: 3px;
+  border-color: orange;
+  border-top: 10px;
+  border-left: 10px; 
+}
+
+.answer{
+  margin-left: 150px;
 }
