@@ -30,7 +30,7 @@ class Main extends Component{
 
 
 		    return(
-		        <div className="container-fluid backgrounding">
+		        <div className="container backgrounding">
 		          <div className="col-12">
 		            <Link className="home-link" to="/home"><h1 className="main-header">MATH</h1></Link>
 		          </div><hr/>

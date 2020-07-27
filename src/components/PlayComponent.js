@@ -28,7 +28,7 @@ class Play extends Component{
     		if(JSON.stringify(values) === answer)
     	  		this.toggleModal();
     	  	else
-            alert('WRONG ANSWER!!!!! ' + answer + " " +JSON.stringify(values));
+            alert('WRONG ANSWER!!!!!');
 }
 
 	 render(){
@@ -75,9 +75,15 @@ class Play extends Component{
 				   <Modal isOpen={this.state.isModalOpen} toggle={this.toggleModal} className="answerModal">
 		                <ModalBody>
 		                    <p className="answer">CORRECT ANSWER!!</p>
-		                     <Link to={`/home/level/${this.props.question.id + 1}`}>
-								<Button className="answer" type="submit" value="submit" color="dark" >Next Question</Button>
-		                    </Link>
+		                     {(this.props.question.id+1) == 8 ? 
+		                     	<Link to={`/home`}>
+									<Button className="answer" type="submit" value="submit" color="dark" >Next Question</Button>
+		                  	    </Link>		                     	:
+		                     	<Link to={`/home/level/${this.props.question.id + 1}`}>
+
+									<Button className="answer" type="submit" value="submit" color="dark" >Next Question</Button>
+		                         </Link>
+		                }
 		                </ModalBody>
 		            </Modal>
     	    </React.Fragment>

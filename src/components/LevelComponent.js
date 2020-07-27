@@ -23,11 +23,23 @@ import { FadeTransform } from 'react-animation-components';
 	 	}
 
 		  const questions = this.props.questions.map(question => {
-		    return (
-		      <div className="col-lg-3 col-md-5 col-sm-5 m-2 ml-5" key={question.id}>
-		        <RenderQuestion question={question} />
-		      </div>
-		    );
+		    
+		      if(question.id != 8){
+		      	return(
+		      	<div className="col-lg-3 col-md-5 col-sm-5 m-2 ml-5" key={question.id}>
+		        	<RenderQuestion question={question} />
+		      	</div>
+		      	);
+
+		      }
+		      else
+		      {
+		      	return(
+			      	<div></div>
+
+		      	);
+		      }
+		    
   });
 
     return(

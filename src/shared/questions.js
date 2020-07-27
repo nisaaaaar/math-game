@@ -47,4 +47,8 @@ export const QUESTIONS=[
 		question : "4,8,16,?",
 		image: '/assets/images/question_bg.jpg',
 		answer : '{"answers":"32"}'
-	}];
+	},{
+		id : 8,//dummy
+		
+	}
+	];
