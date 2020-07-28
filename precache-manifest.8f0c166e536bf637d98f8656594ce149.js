@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69f087845ec6c883efac794082718cd7",
+    "revision": "37a7e0013e1fe2d12c372ff7f0f85187",
     "url": "/math-game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-game/static/css/2.9a78915f.chunk.css"
   },
   {
-    "revision": "bd4504f6bff9c6695fb4",
+    "revision": "1e621aa4615cc20f0c64",
     "url": "/math-game/static/css/main.dc0cc5c4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/math-game/static/js/2.c5ad8afc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd4504f6bff9c6695fb4",
-    "url": "/math-game/static/js/main.51ad15cc.chunk.js"
+    "revision": "1e621aa4615cc20f0c64",
+    "url": "/math-game/static/js/main.9384cc7c.chunk.js"
   },
   {
     "revision": "951f18bc4e115f9eb389",
