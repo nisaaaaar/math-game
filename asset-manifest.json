@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/math-game/static/css/main.dc0cc5c4.chunk.css",
-    "main.js": "/math-game/static/js/main.9384cc7c.chunk.js",
-    "main.js.map": "/math-game/static/js/main.9384cc7c.chunk.js.map",
+    "main.js": "/math-game/static/js/main.cf771f83.chunk.js",
+    "main.js.map": "/math-game/static/js/main.cf771f83.chunk.js.map",
     "runtime-main.js": "/math-game/static/js/runtime-main.36d01603.js",
     "runtime-main.js.map": "/math-game/static/js/runtime-main.36d01603.js.map",
     "static/css/2.9a78915f.chunk.css": "/math-game/static/css/2.9a78915f.chunk.css",
-    "static/js/2.c5ad8afc.chunk.js": "/math-game/static/js/2.c5ad8afc.chunk.js",
-    "static/js/2.c5ad8afc.chunk.js.map": "/math-game/static/js/2.c5ad8afc.chunk.js.map",
+    "static/js/2.f553c1ac.chunk.js": "/math-game/static/js/2.f553c1ac.chunk.js",
+    "static/js/2.f553c1ac.chunk.js.map": "/math-game/static/js/2.f553c1ac.chunk.js.map",
     "index.html": "/math-game/index.html",
-    "precache-manifest.8f0c166e536bf637d98f8656594ce149.js": "/math-game/precache-manifest.8f0c166e536bf637d98f8656594ce149.js",
+    "precache-manifest.361445dd436ab3b0e2a5c9c3ed782215.js": "/math-game/precache-manifest.361445dd436ab3b0e2a5c9c3ed782215.js",
     "service-worker.js": "/math-game/service-worker.js",
     "static/css/2.9a78915f.chunk.css.map": "/math-game/static/css/2.9a78915f.chunk.css.map",
     "static/css/main.dc0cc5c4.chunk.css.map": "/math-game/static/css/main.dc0cc5c4.chunk.css.map",
-    "static/js/2.c5ad8afc.chunk.js.LICENSE.txt": "/math-game/static/js/2.c5ad8afc.chunk.js.LICENSE.txt",
+    "static/js/2.f553c1ac.chunk.js.LICENSE.txt": "/math-game/static/js/2.f553c1ac.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/math-game/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.36d01603.js",
     "static/css/2.9a78915f.chunk.css",
-    "static/js/2.c5ad8afc.chunk.js",
+    "static/js/2.f553c1ac.chunk.js",
     "static/css/main.dc0cc5c4.chunk.css",
-    "static/js/main.9384cc7c.chunk.js"
+    "static/js/main.cf771f83.chunk.js"
   ]
 }
